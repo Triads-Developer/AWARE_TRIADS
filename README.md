@@ -1,6 +1,6 @@
 ## AWARE Mobile Sensing App - Emotion and Behavior Study
 
-The AWARE Mobile Sensing App - Emotion and Behavior Study plans to use the mobile sensing app AWARE (https://awareframework.com/) to collect data from participants next semester while using a different app to send them surveys to their phones every two hours. AWARE is an open source software that enables the project to collect data such as GPS, activity, phone use, etc. The project wants to then look at how emotion and emotion regulation are related to these passively sensed contextual features.
+<img src="https://blogs.unimelb.edu.au/aware-light/files/2020/10/image-10.png" alt="Alt text" title="Optional title"> The AWARE Mobile Sensing App - Emotion and Behavior Study plans to use the mobile sensing app AWARE (https://awareframework.com/) to collect data from participants next semester while using a different app to send them surveys to their phones every two hours. AWARE is an open source software that enables the project to collect data such as GPS, activity, phone use, etc. The project wants to then look at how emotion and emotion regulation are related to these passively sensed contextual features.
 
 ### Background
 
