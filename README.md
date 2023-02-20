@@ -2,13 +2,13 @@
 
 The AWARE Mobile Sensing App - Emotion and Behavior Study plans to use the mobile sensing app AWARE (https://awareframework.com/) to collect data from participants next semester while using a different app to send them surveys to their phones every two hours. AWARE is an open source software that enables the project to collect data such as GPS, activity, phone use, etc. The project wants to then look at how emotion and emotion regulation are related to these passively sensed contextual features.
 
-Background
+# Background
 
 The project is a team of researchers studying the relationship between behavior patterns, emotion regulation, and emotion. They have previously used the AWARE app successfully in a study with 200 undergraduates, focusing on features such as location and phone use. However, they would like to optimize their use of this app for data collection to better understand the relationship between behavior patterns and emotional regulation.
 
-Getting Started
+# Getting Started
 
-To participate in the study, participants will need to download the AWARE app on their smartphone. The app is available for download on Google Play Store for free. Participants will also need to agree to receive survey prompts every two hours through a separate app.
+To participate in the study, participants will need to download the AWARE app on their smartphone. The app is available for download on Google Play Store for free, and a custom built App store AWARE app. Participants will also need to agree to receive survey prompts every two hours through a separate app.
 
 Data Privacy
 
